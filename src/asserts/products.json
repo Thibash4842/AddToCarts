@@ -1,0 +1,218 @@
+[
+    {
+        "id" : 1,
+        "name":"Apple",
+        "price":200,
+        "offer":8,
+        "image":"https://cdn.pixabay.com/photo/2023/07/16/08/23/apple-8130272_960_720.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 2,
+        "name":"Orange",
+        "price":180,
+        "offer":12,
+        "image":"https://cdn.pixabay.com/photo/2016/02/25/16/33/fruit-1222438_960_720.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 3,
+        "name":"Green Apple",
+        "price":250,
+        "offer":6,
+        "image":"https://cdn.pixabay.com/photo/2016/02/23/17/44/apple-1218166_960_720.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 4,
+        "name":"Strawberrie",
+        "price":280,
+        "offer":10,
+        "image":"https://cdn.pixabay.com/photo/2018/07/27/02/30/strawberries-3565102_960_720.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 5,
+        "name":"Custted Apple",
+        "price":150,
+        "offer":12,
+        "image":"https://cdn.pixabay.com/photo/2020/04/15/08/28/fruit-5045672_960_720.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 6,
+        "name":"Water Melon",
+        "price":70,
+        "offer":16,
+        "image":"https://purepng.com/public/uploads/large/big-green-watermelon-t18.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 7,
+        "name":"Kiwi",
+        "price":50,
+        "offer":5,
+        "image":"https://cdn.pixabay.com/photo/2017/04/04/11/14/fruit-2201090_960_720.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 8,
+        "name":"Black Grapes",
+        "price":120,
+        "offer":15,
+        "image":"https://freepngimg.com/save/134889-fresh-black-grapes-free-download-image/1000x667",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 9,
+        "name":"Green Grapes",
+        "price":130,
+        "offer":18,
+        "image":"https://static.vecteezy.com/system/resources/previews/029/336/732/original/fresh-green-grape-ai-generative-free-png.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 10,
+        "name":"Pine Apple",
+        "price":50,
+        "offer":10,
+        "image":"https://www.pngarts.com/files/3/Pineapple-PNG-Image-Background.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 11,
+        "name":"Banana",
+        "price":50,
+        "offer":20,
+        "image":"https://purepng.com/public/uploads/large/purepng.com-bananafruitsyellowfruit-981524754330lspp8.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 12,
+        "name":"Pomegrante",
+        "price":230,
+        "offer":25,
+        "image":"https://cdn.pixabay.com/photo/2023/07/16/08/24/pomegranate-8130275_960_720.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 13,
+        "name":"Musk Melon",
+        "price":50,
+        "offer":8,
+        "image":"https://png.pngtree.com/png-vector/20240313/ourmid/pngtree-sweet-juicy-tasty-natural-eco-product-melon-png-image_11939612.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 14,
+        "name":"Mango",
+        "price":100,
+        "offer":20,
+        "image":"https://freepngdownload.com/image/thumb/mango-png-free-download-6.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 15,
+        "name":"Papaya",
+        "price":50,
+        "offer":10,
+        "image":"https://static.vecteezy.com/system/resources/thumbnails/025/230/099/small_2x/fresh-papaya-fruit-with-slice-isolated-on-transparent-background-png.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 16,
+        "name":"Avocado",
+        "price":100,
+        "offer":18,
+        "image":"https://i.pinimg.com/originals/d7/ea/7a/d7ea7a3ad9110b018fbba872da72dbee.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 17,
+        "name":"Dragon Fruit",
+        "price":80,
+        "offer":12,
+        "image":"https://i0.wp.com/meatmyveggies.com/wp-content/uploads/2021/05/Dragon-Fruit.png?fit=800%2C800&ssl=1",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 18,
+        "name":"Blueberrie",
+        "price":230,
+        "offer":23,
+        "image":"https://pngimg.com/d/blueberries_PNG36.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 19,
+        "name":"Sapota",
+        "price":130,
+        "offer":25,
+        "image":"https://www.kenshodaily.com/cdn/shop/products/Sapota_Chikoo.png?v=1672742874",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 20,
+        "name":"Guava",
+        "price":100,
+        "offer":12,
+        "image":"https://pngimg.com/d/guava_PNG59.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 21,
+        "name":"Pears",
+        "price":130,
+        "offer":12,
+        "image":"https://parspng.com/wp-content/uploads/2023/02/pearpng.parspng.com-4.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 22,
+        "name":"Jack Fruit",
+        "price":180,
+        "offer":20,
+        "image":"https://pngfre.com/wp-content/uploads/Jackfruit-24.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 23,
+        "name":"Lemon",
+        "price":30,
+        "offer":7,
+        "image":"https://pngfre.com/wp-content/uploads/lemon-47.png",
+        "latest":"No",
+        "quantity":1
+    },
+    {
+        "id" : 24,
+        "name":"Water Melon Kiran",
+        "price":80,
+        "offer":13,
+        "image":"https://ik.imagekit.io/faigu8tol9/water-melon_kiran.png?updatedAt=1695725031431",
+        "latest":"No",
+        "quantity":1
+    }
+]
